@@ -90,7 +90,28 @@
             "extendRev": 0,
             "media_files": [],
             "name": "technischer_einkauf",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist direkter Einkauf?",
+                        "Alle Güter, Waren und Betriebmittel welche über Stücklisten, Baugruppen in die Endprodukte einfließen."
+                    ],
+                    "guid": "n3$xIc&hmp",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist indirekter Einkauf?",
+                        "Alle Güter, Hilfsstoffe, Dienstleistungen oder externe Vorgänge welche <b>nicht unmittelbar </b>in den Produktions- und Herstellungsprozess fließen.&nbsp;<br>"
+                    ],
+                    "guid": "sl+Wmvo=N?",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "70c8fe44-171a-11ec-ab1e-1e2940308285",
@@ -151,6 +172,64 @@
     "extendRev": 0,
     "media_files": [],
     "name": "5_semester_collab",
-    "note_models": [],
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+            "css": ".card {\n font-familiy: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "bash"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
     "notes": []
 }
