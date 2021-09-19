@@ -89,6 +89,7 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "350px-Branchenstrukturmodell-Five-forces.svg.png",
                 "9e97afed8c0c4c07ab4e2f9ef8630b11-ao-1-A.svg",
                 "9e97afed8c0c4c07ab4e2f9ef8630b11-ao-1-Q.svg",
                 "9e97afed8c0c4c07ab4e2f9ef8630b11-ao-2-A.svg",
@@ -98,10 +99,76 @@
                 "Bildschirmfoto 2021-09-17 um 15.25.19.png",
                 "Bildschirmfoto 2021-09-17 um 15.25.53.png",
                 "Bildschirmfoto 2021-09-17 um 15.27.38.png",
-                "Bildschirmfoto 2021-09-17 um 15.28.13.png"
+                "Bildschirmfoto 2021-09-17 um 15.28.13.png",
+                "b2fe76528a8b43dcad31c6d92ea94abe-ao-1-A.svg",
+                "b2fe76528a8b43dcad31c6d92ea94abe-ao-1-Q.svg",
+                "b2fe76528a8b43dcad31c6d92ea94abe-ao-O.svg",
+                "c937a25242d246a988a20baba600b24f-ao-1-A.svg",
+                "c937a25242d246a988a20baba600b24f-ao-1-Q.svg",
+                "c937a25242d246a988a20baba600b24f-ao-O.svg",
+                "fd0f33fff0e94e81bd5175fef4aafe3c-ao-1-A.svg",
+                "fd0f33fff0e94e81bd5175fef4aafe3c-ao-1-Q.svg",
+                "fd0f33fff0e94e81bd5175fef4aafe3c-ao-2-A.svg",
+                "fd0f33fff0e94e81bd5175fef4aafe3c-ao-2-Q.svg",
+                "fd0f33fff0e94e81bd5175fef4aafe3c-ao-3-A.svg",
+                "fd0f33fff0e94e81bd5175fef4aafe3c-ao-3-Q.svg",
+                "fd0f33fff0e94e81bd5175fef4aafe3c-ao-O.svg",
+                "paste-01cced5597df33cab2d1b02f3148c0c93ae34248.jpg",
+                "paste-1d1c25b0a3c901e004f4d10f8d9c6d220f1f6edf.jpg",
+                "paste-5f099c690d138f9ed9a2f7064abf80b709ed6b63.jpg",
+                "paste-5f1cad9673ea9e54089e0055afbb43e7c7d35667.jpg",
+                "paste-7330a8b7f16a2fbc47d4f749937fc4bc6c2342db.jpg",
+                "paste-78eef8d512cced3d2070918899b457b5b77a157a.jpg",
+                "paste-85a60c7dbd17baef32990249f6e5ee8fab1d8210.jpg",
+                "paste-912f40cc6d9f6babef259af8691107ee68efceae.jpg",
+                "paste-959efde9d43c62d4941cc931eb7852aae7fc299d.jpg",
+                "paste-9fab694dc5467892ed09fc954ff47cba429cccf2.jpg",
+                "paste-aa64b8930b99986a834e59542aa7fd1af61ff7d4.jpg",
+                "paste-dffea4a49304cdba09062649f04e28c3ba907f84.jpg",
+                "paste-f63643bc180b2c86e74a6e15ad055711fe1bd84d.jpg"
             ],
             "name": "technischer_einkauf",
             "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet global sourcing?",
+                        "<span style=\"color: rgb(0, 25, 60);\">Global Sourcing (auf Deutsch „</span><font color=\"#0055ff\">globale Beschaffung</font><span style=\"color: rgb(0, 25, 60);\">“) bedeutet, dass Unternehmen Materialien, Vorprodukte und auch Dienstleistungen auf dem internationalen Markt beschaffen.&nbsp;</span><br>"
+                    ],
+                    "guid": "G{#tOJ4Ted",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum bietet der Einkauf einen großen Hebel?",
+                        "<img src=\"paste-959efde9d43c62d4941cc931eb7852aae7fc299d.jpg\"><br><br>5% niedrigere Beschaffungskosten haben mehr Einfluss auf den Gewinn als 5% mehr Umsatz zu erzielen da auf diese 5% die Gewinnmarge berechnet werden muss (bei 10% GM also 0,5%)"
+                    ],
+                    "guid": "EsU542eaxP",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter dem Begriff Einkauf?",
+                        "Einkauf ist die Summe aller<font color=\"#ff00ff\"> operativen und strategischen Tätigkeiten </font>eines Unternehmens die <font color=\"#ff00ff\">im Rahmen</font> der \n<font color=\"#ff00ff\">Beschaffung</font> von <font color=\"#ff00ff\">Werkstoffen, Waren, Betriebsmitteln und Dienstleistungen</font> \ndurchzuführen sind."
+                    ],
+                    "guid": "t,r1(toKRI",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie grenzt sich die Beschaffung vom Einkauf ab?",
+                        "Die <font color=\"#ff0000\">Mengenbedarfsplanung </font>findet im Bereich der Beschaffung statt. In der Beschaffung beschäftigt man sich auch damit die <font color=\"#ff0000\">richtige Menge zum richtigen Ort und der richtigen Zeit </font>zur Verfügung zu stellen."
+                    ],
+                    "guid": "wd[GCOu9R|",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
                 {
                     "__type__": "Note",
                     "fields": [
@@ -138,7 +205,7 @@
                         "<img src=\"9e97afed8c0c4c07ab4e2f9ef8630b11-ao-O.svg\" />"
                     ],
                     "guid": "vvm<S6G<0[",
-                    "note_model_uuid": "2dedf2ae-17bb-11ec-9225-1e2940308285",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
                     "tags": []
                 },
                 {
@@ -157,7 +224,7 @@
                         "<img src=\"9e97afed8c0c4c07ab4e2f9ef8630b11-ao-O.svg\" />"
                     ],
                     "guid": "A-{Fuz_%/}",
-                    "note_model_uuid": "2dedf2ae-17bb-11ec-9225-1e2940308285",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
                     "tags": []
                 },
                 {
@@ -197,6 +264,291 @@
                         "<img src=\"Bildschirmfoto 2021-09-17 um 15.28.13.png\">"
                     ],
                     "guid": "doUzf~:3YP",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter der Beschaffung?",
+                        "Zusammenfassung <font color=\"#ff0000\">aller Tätigkeiten</font> die Versorgung des Unternehmens mit <font color=\"#ff0000\">Material, Dienstleistungen, Arbeitsmitteln aber auch Rechten und Informationen</font> aus unternehmensexternen Quellen dienen.&nbsp;"
+                    ],
+                    "guid": "u]Sb*?/v!&",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter dem Beschaffungsmanagement? Nennen sie 5 Beispielaufgaben",
+                        "Alle Prozesse zur Versorgung der Bedarfsträger mit Inputfaktoren, die nicht selbst vom Unternehmen kommen.&nbsp;<br><br>Wichtige Prozesse:<br><br>-Bedarfsermittlung/-steuerung<br>-Make-or-Buy<br>-Bestellabwicklung<br>-Vergabeentscheidung<br>-Lieferantenmanagement<br>"
+                    ],
+                    "guid": "dPa$Z7Vm-f",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erklären sie den Begriff Materialwirtschaft",
+                        "Gesamtheit aller materialbezogener Funktionen die dazu dienen den Betrieb zu Versorgen und den <font color=\"#ff0000\">Materialfluss von der Fertigung bis zur Auslieferung</font> zu steuern"
+                    ],
+                    "guid": "qaG+Or1r=1",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was meint man mit Supply Chain?",
+                        "<font color=\"#ff0000\">Management von Lieferanten, Produzenten, Logistikzentren und Händlern</font>, so dass richtige Menge am richtigen Ort zur richtigen Zeit zur Verfügung steht. Gleichzeitig <font color=\"#ff0000\">Ziel minimierung der Gesamtkosten</font> und <font color=\"#ff0000\">Maximierung der Servicequalität</font>"
+                    ],
+                    "guid": "d=%n_xj#rY",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b2fe76528a8b43dcad31c6d92ea94abe-ao-1",
+                        "Grenzen sie die Begriffe im Einkauf anhand der Wertschöpfungskette ab:",
+                        "<img src=\"paste-dffea4a49304cdba09062649f04e28c3ba907f84.jpg\" />",
+                        "<img src=\"b2fe76528a8b43dcad31c6d92ea94abe-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-f63643bc180b2c86e74a6e15ad055711fe1bd84d.jpg\">",
+                        "",
+                        "<img src=\"b2fe76528a8b43dcad31c6d92ea94abe-ao-1-A.svg\" />",
+                        "<img src=\"b2fe76528a8b43dcad31c6d92ea94abe-ao-O.svg\" />"
+                    ],
+                    "guid": "qQ>EZB$yX(",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "fd0f33fff0e94e81bd5175fef4aafe3c-ao-1",
+                        "Nennen Sie die Aufgaben des jeweiligen Beschaffungsprozesses",
+                        "<img src=\"paste-aa64b8930b99986a834e59542aa7fd1af61ff7d4.jpg\" />",
+                        "<img src=\"fd0f33fff0e94e81bd5175fef4aafe3c-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"fd0f33fff0e94e81bd5175fef4aafe3c-ao-1-A.svg\" />",
+                        "<img src=\"fd0f33fff0e94e81bd5175fef4aafe3c-ao-O.svg\" />"
+                    ],
+                    "guid": "I5;<_lk0w^",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "fd0f33fff0e94e81bd5175fef4aafe3c-ao-2",
+                        "Nennen Sie die Aufgaben des jeweiligen Beschaffungsprozesses",
+                        "<img src=\"paste-aa64b8930b99986a834e59542aa7fd1af61ff7d4.jpg\" />",
+                        "<img src=\"fd0f33fff0e94e81bd5175fef4aafe3c-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"fd0f33fff0e94e81bd5175fef4aafe3c-ao-2-A.svg\" />",
+                        "<img src=\"fd0f33fff0e94e81bd5175fef4aafe3c-ao-O.svg\" />"
+                    ],
+                    "guid": "jeZ4F2|a?G",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "fd0f33fff0e94e81bd5175fef4aafe3c-ao-3",
+                        "Nennen Sie die Aufgaben des jeweiligen Beschaffungsprozesses",
+                        "<img src=\"paste-aa64b8930b99986a834e59542aa7fd1af61ff7d4.jpg\" />",
+                        "<img src=\"fd0f33fff0e94e81bd5175fef4aafe3c-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"fd0f33fff0e94e81bd5175fef4aafe3c-ao-3-A.svg\" />",
+                        "<img src=\"fd0f33fff0e94e81bd5175fef4aafe3c-ao-O.svg\" />"
+                    ],
+                    "guid": "CE)%[6&DfZ",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche zwei Warengruppen werden im strategischen Einkauf unterschieden / Nennen sie jeweils 3 Beispiele?",
+                        "<b>Direkter EInkauf:</b>&nbsp;alle Güter welche über Stücklisten, Baugruppen oder Rezepturen in die Endprodukte einfließen. (Volumen &gt; 50%)<br><br>Bsp (Handyhersteller): Prozessoren, Bildschirme, Chips, Akkus usw.<br><br><b>Indirekter Einkauf: </b>alle Güter welche nicht unmittelbar in den Produktions- oder Herstellungsprozess einfließen.<br><br>Bsp: Fuhrpark, IT, Beratung, Transport, Reinigungsmaßnahmen, Büroausstattung, Hilfsstoffe"
+                    ],
+                    "guid": "yp@:H;{<=T",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welche zwei Bereiche wird der Einkauf unterteilt und wie kennzeichnen sich diese?",
+                        "<b>Operativer Einkauf: </b>zuständig für termingerechte Bedarfsdeckung. Führt die administrativen Beschaffungsprozesses aus und disponiert die benötigten Güter. <font color=\"#0000ff\">(kurzfristige Versorgungsschicht: Bedarfsdeckung, Güterbereitstellung, Terminbereitstellung)</font><br>Aufgaben: Bedarfskontrolle, Bestellungen anlegen, Reklamationen, Rechnungsprüfung<br><br><br><b>Strategischer Einkauf: </b>strategische Ausrichtung der gesamten Supply Chain.&nbsp;<font color=\"#0000ff\">(mittel- bis langfristige Versorgungsschicht: Vertragsmanagement)</font><br>Aufgaben: Vertragsverhandlungen, Kostenoptimierung, Lieferantenbewertung, Global Sourcing, Materialfeldstrategien"
+                    ],
+                    "guid": "Abmif~iLRK",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "c937a25242d246a988a20baba600b24f-ao-1",
+                        "Sortieren sie die Begriffe Operativer- Strategischer und Projekteinkauf",
+                        "<img src=\"paste-85a60c7dbd17baef32990249f6e5ee8fab1d8210.jpg\" />",
+                        "<img src=\"c937a25242d246a988a20baba600b24f-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"c937a25242d246a988a20baba600b24f-ao-1-A.svg\" />",
+                        "<img src=\"c937a25242d246a988a20baba600b24f-ao-O.svg\" />"
+                    ],
+                    "guid": "G$9p:jNaIe",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche 5 Prozessschritte gibt es im strategischen und operativen Einkauf?",
+                        "<img src=\"paste-01cced5597df33cab2d1b02f3148c0c93ae34248.jpg\">"
+                    ],
+                    "guid": "bc|4DQ`DAR",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum zieht sich die Beschaffungsstrategie durch den gesamten Produktlebenszyklus?",
+                        "<img src=\"paste-5f1cad9673ea9e54089e0055afbb43e7c7d35667.jpg\">"
+                    ],
+                    "guid": "m6/4+q2(4K",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche 6 Schritte bestehen im Product Engineering Process?",
+                        "<img src=\"paste-912f40cc6d9f6babef259af8691107ee68efceae.jpg\">"
+                    ],
+                    "guid": "yAKV=v0Iz-",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter dem 70/20/10 Modell",
+                        "70% der Anstrengungen in bestehenden Märtken<br>20% der Anstrengungen in neuen Märkten<br>10% der Anstrengungen in komplett neuen Ansätzen"
+                    ],
+                    "guid": "mfA7d#Uu0X",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Kennzahlen können dazu dienen den Einkaufserfolg zu messen? Nennen sie 4",
+                        "<img src=\"paste-1d1c25b0a3c901e004f4d10f8d9c6d220f1f6edf.jpg\">"
+                    ],
+                    "guid": "N{1x&)tq*W",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die strategische Beschaffung?",
+                        "langfristige Beschaffungsentscheidungen&nbsp;auf Basis einer Ist-Analyse und der Beschaffungssituation.<br>(make-or-buy / single sourcing, dual sourcing... / Risiken nach TCO bewerten"
+                    ],
+                    "guid": "q9xd=~ZX]N",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Beschaffungswege werden unterschieden und welche vor- und nachteile entstehen daraus?",
+                        "Beim <b>single Sourcing</b> stammen alle&nbsp;<font color=\"#575757\">Bauteile, Rohstoffe etc. von einem einzigen Lieferanten</font><br><font color=\"#00aa00\">Chancen: unkomplizierte- langfristige- stabile Geschäftsbeziehung, hohe Bestellmenge -&gt; Mengenrabatt, starke Entwicklungsmöglichkeiten des Lieferanten</font><br><font color=\"#aa0000\">Risiken: keine Alternativenbeschaffungswege -&gt; starke Abhängigkeit -&gt; Produktionsausfälle und wenig Verhandlungsbasis<br><br></font>Beim&nbsp;<b>dual Sourcing</b>&nbsp;<span style=\"color: rgb(87, 87, 87);\">Beschaffung der benötigten Güter und Bauteile auf zwei Lieferanten verteilt</span><br><font color=\"#00aa00\">Chancen: Ausfallsicherheit, konkurrenz zwischen beiden kann Preise senken</font><br><font color=\"#aa0000\">Risiken: Fokus schwächer als bei nur einem<br></font><font color=\"#aa0000\"><br></font>Beim&nbsp;<b>multiple Sourcing</b>&nbsp;<span style=\"color: rgb(87, 87, 87);\">Beschaffung der Rohstoffe und Güter von mehreren Lieferanten zu verstehen</span><br><font color=\"#00aa00\">Chancen: hohe Liefersicherheit, Auswahl beim Bestellungsprozess auf günstigsten Preis</font><br><font color=\"#aa0000\">Risiken: hoher Aufwand der Koordinierung, Fokus und Bindung gehen verloren, kleine Stückzahlen -&gt; kein Mengenrabatt</font><font color=\"#aa0000\"><br></font>"
+                    ],
+                    "guid": "lu+rB%Vr4;",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Kategorisierungen bei den Beschaffungsstrategien bestehen?",
+                        "<img src=\"paste-9fab694dc5467892ed09fc954ff47cba429cccf2.jpg\">"
+                    ],
+                    "guid": "G{n.)RbB[1",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter der Umfeldanalyse?",
+                        "Ziel: <font color=\"#00007f\">effiziente und effektive Beschaffung</font><br>Ermittlung von Rahmenbedingungen und Einflussfaktoren sowie Einbeziehung dieser in die Vergabestrategie<br><br>Hierzu zählen die:<br><ul><li>Materialfeldanalyse (&nbsp;Erfassen der Transportvorgänge -abläufe,&nbsp;<a href=\"https://de.wikipedia.org/wiki/Lagerhaltung\">Lagerungen</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;und Aufenthalte aller&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Produktionsfaktor#Werkstoffe\">Materialien</a>)</li><li>Lieferantenanalyse (Einschätzung Gesamtleistung des Lieferanten / langfristige Nachhaltigkeit)</li><li>interne Umfeldanalyse</li><li>Industrieanalyse (Porter-Five-Forces)</li></ul>"
+                    ],
+                    "guid": "d0#*yEiP9+",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nennen sie die 5-Forces nach Porter (Industrieanalyse)",
+                        "<img src=\"350px-Branchenstrukturmodell-Five-forces.svg.png\"><br><ol><li>Rivalität unter den bestehenden Wettbewerbern</li><li><a href=\"https://de.wikipedia.org/wiki/Zugangsbeschr%C3%A4nkung_(Wirtschaft)\">Bedrohung durch neue Anbieter</a></li><li><a href=\"https://de.wikipedia.org/wiki/Verhandlungsmacht\">Verhandlungsstärke</a>&nbsp;der Lieferanten&nbsp;</li><li><a href=\"https://de.wikipedia.org/wiki/Verhandlungsmacht\">Verhandlungsstärke</a>&nbsp;der Abnehmer&nbsp;</li><li>Bedrohung durch Ersatzprodukte</li></ol>"
+                    ],
+                    "guid": "va>SQi$7A9",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was beinhaltet die <font color=\"#00007f\">interne Umfeldanalyse</font>?",
+                        "Die interne Umfeldanalyse beinhaltet die <font color=\"#00007f\">genaue Spezifikation und Anforderung</font> an die zu beschaffende \nLeistung, Dienstleistung oder das Produkt.<br><br>Fließen als Anforderungen ins Lastenheft ein"
+                    ],
+                    "guid": "pnwW4ku^mQ",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Grundidee des Warengruppenmanagements?",
+                        "<ul><li>Alle Teile können klassifiziert werden</li><li>Die Klassifizierung der Bauteile ermöglicht deren Bündelung , strategische Vergabe und wird \nzumeist unternehmensspezifisch ausgeführt</li></ul><br>"
+                    ],
+                    "guid": "l.5aHt3&[F",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Marktanalyse - True North?",
+                        "Eine <font color=\"#00007f\">Auflistung </font>der <font color=\"#00007f\">wichtigen Unternehmensbedürfnisse</font> und daraus <font color=\"#00007f\">abgeleitete Beschaffungsziele</font>.<br><br>Die Ziele werden SMART formuliert und mithilfe der Key-Performance-Indicator (KPI) gemessen.<br>(KPI) bezeichnet Kennzahlen, anhand der \nErfüllungsgrad hinsichtlich, wichtiger Zielsetzungen oder Erfolgsfaktoren \nmessbar dargestellt wird.<br><br><img src=\"paste-78eef8d512cced3d2070918899b457b5b77a157a.jpg\"><br><img src=\"paste-5f099c690d138f9ed9a2f7064abf80b709ed6b63.jpg\">&nbsp;<img src=\"paste-7330a8b7f16a2fbc47d4f749937fc4bc6c2342db.jpg\"><br><br><br>"
+                    ],
+                    "guid": "uV0O2Jy-=z",
                     "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
                     "tags": []
                 }
@@ -289,7 +641,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-5f68b",
             "req": [
                 [
                     0,
@@ -300,9 +652,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "bash"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -321,7 +671,7 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "2dedf2ae-17bb-11ec-9225-1e2940308285",
+            "crowdanki_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
             "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
             "flds": [
                 {
