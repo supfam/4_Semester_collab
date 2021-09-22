@@ -4,6 +4,817 @@
         {
             "__type__": "Deck",
             "children": [],
+            "crowdanki_uuid": "f25f5e20-1b71-11ec-8f9e-1e2940308284",
+            "deck_config_uuid": "be1d1a58-09ba-11ec-aaf2-1e2940308285",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "1280px-Kano_Modell_allgemein.svg.png",
+                "1b7d7f81bc5349fe8ac1e29fe0527294-oa-1-A.svg",
+                "1b7d7f81bc5349fe8ac1e29fe0527294-oa-1-Q.svg",
+                "1b7d7f81bc5349fe8ac1e29fe0527294-oa-2-A.svg",
+                "1b7d7f81bc5349fe8ac1e29fe0527294-oa-2-Q.svg",
+                "1b7d7f81bc5349fe8ac1e29fe0527294-oa-3-A.svg",
+                "1b7d7f81bc5349fe8ac1e29fe0527294-oa-3-Q.svg",
+                "1b7d7f81bc5349fe8ac1e29fe0527294-oa-4-A.svg",
+                "1b7d7f81bc5349fe8ac1e29fe0527294-oa-4-Q.svg",
+                "1b7d7f81bc5349fe8ac1e29fe0527294-oa-O.svg",
+                "330px-PDCA_Cycle.svg.png",
+                "4a25300008d947018aa03805266b2854-ao-1-A.svg",
+                "4a25300008d947018aa03805266b2854-ao-1-Q.svg",
+                "4a25300008d947018aa03805266b2854-ao-2-A.svg",
+                "4a25300008d947018aa03805266b2854-ao-2-Q.svg",
+                "4a25300008d947018aa03805266b2854-ao-3-A.svg",
+                "4a25300008d947018aa03805266b2854-ao-3-Q.svg",
+                "4a25300008d947018aa03805266b2854-ao-4-A.svg",
+                "4a25300008d947018aa03805266b2854-ao-4-Q.svg",
+                "4a25300008d947018aa03805266b2854-ao-5-A.svg",
+                "4a25300008d947018aa03805266b2854-ao-5-Q.svg",
+                "4a25300008d947018aa03805266b2854-ao-O.svg",
+                "563029.jpg",
+                "SGMM2.jpg",
+                "b1c7e48f6333493fad500b6b6f0e2dc6-ao-1-A.svg",
+                "b1c7e48f6333493fad500b6b6f0e2dc6-ao-1-Q.svg",
+                "b1c7e48f6333493fad500b6b6f0e2dc6-ao-2-A.svg",
+                "b1c7e48f6333493fad500b6b6f0e2dc6-ao-2-Q.svg",
+                "b1c7e48f6333493fad500b6b6f0e2dc6-ao-3-A.svg",
+                "b1c7e48f6333493fad500b6b6f0e2dc6-ao-3-Q.svg",
+                "b1c7e48f6333493fad500b6b6f0e2dc6-ao-4-A.svg",
+                "b1c7e48f6333493fad500b6b6f0e2dc6-ao-4-Q.svg",
+                "b1c7e48f6333493fad500b6b6f0e2dc6-ao-5-A.svg",
+                "b1c7e48f6333493fad500b6b6f0e2dc6-ao-5-Q.svg",
+                "b1c7e48f6333493fad500b6b6f0e2dc6-ao-O.svg",
+                "b723b234edb34a71b3477003554ee3e1-ao-1-A.svg",
+                "b723b234edb34a71b3477003554ee3e1-ao-1-Q.svg",
+                "b723b234edb34a71b3477003554ee3e1-ao-2-A.svg",
+                "b723b234edb34a71b3477003554ee3e1-ao-2-Q.svg",
+                "b723b234edb34a71b3477003554ee3e1-ao-3-A.svg",
+                "b723b234edb34a71b3477003554ee3e1-ao-3-Q.svg",
+                "b723b234edb34a71b3477003554ee3e1-ao-4-A.svg",
+                "b723b234edb34a71b3477003554ee3e1-ao-4-Q.svg",
+                "b723b234edb34a71b3477003554ee3e1-ao-O.svg",
+                "paste-0212cf779193254031278a17531b771879664b4c.jpg",
+                "paste-254fc7bd00220238e11c151d4bc8bc3d65d125cc.jpg",
+                "paste-2c15b32fa0a8d5dd59b54aeec7578443d409ac1f.jpg",
+                "paste-2e8553cff3e144ee85cfbe923f94350c999f5481.jpg",
+                "paste-3167a3fad32c21cf601950c18b2a4332d30d6b3a.jpg",
+                "paste-3e1db9e1bc8a79d1afbb070171d57f8edfa8ccdb.jpg",
+                "paste-41b1b77b946d77e4d3c52775436de7978d75d874.jpg",
+                "paste-536cf3ddbec4f71dfe88ca1f4995d0e4d1346e11.jpg",
+                "paste-6ef233966bf06d808c34b8aa9e82f38f66be9abd.jpg",
+                "paste-73555bf5e446d56e7922569aa3be1a5bcca8996c.jpg",
+                "paste-7b52ed132b978f28152811d8c4f4b618ef5c8662.jpg",
+                "paste-9663dbbea162c7e48a4b64cb8c11a39fa6150e04.jpg",
+                "paste-acae84e25791d72f423f94d24e01ffe7348cdde1.jpg",
+                "paste-bc0a67f2b1dd9be748cd0a8c59f52b272ec85b9a.jpg",
+                "paste-c263d3bc0d809612725ca2bac8b6e23f0cc3173a.jpg",
+                "paste-c7409253e7c8b680d8daab1518b1a3894e28c53c.jpg",
+                "paste-dd8a247d3370d7484a44e75276d23bac685ca33c.jpg",
+                "paste-e06e6e36ca5276060a45dfb83b067ef617cc925d.jpg",
+                "paste-e27d6d459c61117ff46c3316907f97b389d17f77.jpg",
+                "paste-ff92cf7d3d83fc4c33fadbe55f7b441dbee648d4.jpg"
+            ],
+            "name": "Qualitätsmanagement",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b723b234edb34a71b3477003554ee3e1-ao-1",
+                        "Welche vier Stufen werden im Qualitätsmanagement unterschieden?",
+                        "<img src=\"paste-254fc7bd00220238e11c151d4bc8bc3d65d125cc.jpg\" />",
+                        "<img src=\"b723b234edb34a71b3477003554ee3e1-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b723b234edb34a71b3477003554ee3e1-ao-1-A.svg\" />",
+                        "<img src=\"b723b234edb34a71b3477003554ee3e1-ao-O.svg\" />"
+                    ],
+                    "guid": "Ase[0:;nfW",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b723b234edb34a71b3477003554ee3e1-ao-2",
+                        "Welche vier Stufen werden im Qualitätsmanagement unterschieden?",
+                        "<img src=\"paste-254fc7bd00220238e11c151d4bc8bc3d65d125cc.jpg\" />",
+                        "<img src=\"b723b234edb34a71b3477003554ee3e1-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b723b234edb34a71b3477003554ee3e1-ao-2-A.svg\" />",
+                        "<img src=\"b723b234edb34a71b3477003554ee3e1-ao-O.svg\" />"
+                    ],
+                    "guid": "Mw.`onh%;/",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b723b234edb34a71b3477003554ee3e1-ao-3",
+                        "Welche vier Stufen werden im Qualitätsmanagement unterschieden?",
+                        "<img src=\"paste-254fc7bd00220238e11c151d4bc8bc3d65d125cc.jpg\" />",
+                        "<img src=\"b723b234edb34a71b3477003554ee3e1-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b723b234edb34a71b3477003554ee3e1-ao-3-A.svg\" />",
+                        "<img src=\"b723b234edb34a71b3477003554ee3e1-ao-O.svg\" />"
+                    ],
+                    "guid": "fba+u2vx>s",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b723b234edb34a71b3477003554ee3e1-ao-4",
+                        "Welche vier Stufen werden im Qualitätsmanagement unterschieden?",
+                        "<img src=\"paste-254fc7bd00220238e11c151d4bc8bc3d65d125cc.jpg\" />",
+                        "<img src=\"b723b234edb34a71b3477003554ee3e1-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b723b234edb34a71b3477003554ee3e1-ao-4-A.svg\" />",
+                        "<img src=\"b723b234edb34a71b3477003554ee3e1-ao-O.svg\" />"
+                    ],
+                    "guid": "OyH<IX3i.G",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum sollte ein Unternehmen darauf abzielen zum Qualitätsunternehmen zu werden?",
+                        "Weil der Unternehmenserfolg stark damit korreliert<br><br><img src=\"paste-6ef233966bf06d808c34b8aa9e82f38f66be9abd.jpg\">"
+                    ],
+                    "guid": "MnU6FWr?D*",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter Qualität?",
+                        "Grad, in dem ein Satz inhärenter Merkmale eines Objekts \nAnforderungen erfüllt."
+                    ],
+                    "guid": "G$/SB8#u!]",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Merkmal?",
+                        "Eine kennzeichnende Eigenschaft"
+                    ],
+                    "guid": "jKX.R(z5w8",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Anforderung?",
+                        "Erfordernis oder Erwartung die vorausgesetzt ist"
+                    ],
+                    "guid": "pxHmlYu5R?",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nennen Sie jeweils 5 Kundenanforderungen an ein Produkt bzw. Unternehmen",
+                        "<img src=\"paste-ff92cf7d3d83fc4c33fadbe55f7b441dbee648d4.jpg\">"
+                    ],
+                    "guid": "Iu~tM>9~j4",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wozu verwendet man das Kano-Modell?",
+                        "Zur systematischen Erzeugung von Kundenzufridenheit.<br>Das Modell beschreibt den Zusammenhang zwischen dem Erreichen bestimmter Eigenschaften und der daraus zu erwartenden Kundenzufriedenheit. Zudem erlaubt es die Erwartungen der Kunden zu erfassen und bei der Produktentwicklung zu berücksichtigen."
+                    ],
+                    "guid": "p=):=g=.sI",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche 5 Ebenen der Qualität unterscheidet das Kano-Modell?",
+                        "<ul><li><b>Basis-Merkmale:</b> So grundlegend, dass sie dem Kunden oft erst bei Nichterfüllung bewusst werden. Werden Sie nicht erfüllt entsteht Unzufriedenheit, andersrum entsteht bei Erfüllung aber keine Zufriedenheit. Daher ist die Nutzensteigerung in diesem Bereich nur gering.</li></ul><ul><li><b>Leistungs-Merkmale: </b>sie sind dem Kunden bewusst, sie beseitigen Unzufriedenheit oder schaffen&nbsp;<a href=\"https://de.wikipedia.org/wiki/Kundenzufriedenheit\">Zufriedenheit</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;abhängig vom Ausmaß der Erfüllung.</span></li></ul><ul><li><b>Begeisterungs-Merkmale: </b>Nutzenstiftende Merkmale mit denen der Kunde nicht unbedingt rechnet. Sie zeichnen das Produkt gegenüber der Konkurrenk aus und rufen Begeisterung hervor. Eine kleine Leistungssteigerung kann daher zu einem überproportionalen Nutzen führen.&nbsp;</li></ul><ul><li><b>Unerhebliche-Merkmale:&nbsp;</b>sind sowohl bei Vorhandensein wie auch bei Fehlen ohne Belang für den Kunden (keine Nutzenstiftung möglich)</li></ul><ul><li><b>Rückweisungs-Merkmale:&nbsp;</b>Führen bei Vorhandensein zu Unzufriedenheit, bei Fehlen jedoch zu Zufriedenheit des Kunden<img src=\"1280px-Kano_Modell_allgemein.svg.png\"></li></ul>"
+                    ],
+                    "guid": "HK5:hf{J-`",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nennen Sie jeweils ein Beispiel im Produkt bzw. Dienstleistungsbereich für das <b>Kano-Modell</b>",
+                        "<img src=\"paste-e06e6e36ca5276060a45dfb83b067ef617cc925d.jpg\">"
+                    ],
+                    "guid": "Eb:t6})!K|",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man im <b>Kano-Modell</b> unter einem Gewöhnungseffekt?",
+                        "<span style=\"color: rgb(32, 33, 34);\">Über die Zeit gesehen verändern sich die Eigenschaften, da ein&nbsp;</span><b>Gewöhnungseffekt</b><span style=\"color: rgb(32, 33, 34);\">&nbsp;entsteht. Ein Begeisterungs-Merkmal kann zu einem Leistungs- und später zu einem Basis-Merkmal werden.<br><br></span><img src=\"paste-2e8553cff3e144ee85cfbe923f94350c999f5481.jpg\"><span style=\"color: rgb(32, 33, 34);\"><br></span>"
+                    ],
+                    "guid": "MFIJ/@F2wR",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche sind die 3 <b>kritischen Erfolgsfaktoren</b> für ein Unternehmen?",
+                        "<img src=\"paste-41b1b77b946d77e4d3c52775436de7978d75d874.jpg\">"
+                    ],
+                    "guid": "Q`5g$#MaTZ",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche <b>Maßzahlen für Qualität</b> gibt es?",
+                        "<b>Fehlerrate </b>beschreibt den Ausschuss bzw. Ausfallhäufigkeit:<br><br><b>ppm</b>: parts per million <br><b>dppm</b>: defective parts per million <br><b>ppb</b>: parts per billion <br><b>dppb</b>: defective parts per billion<br><br><table><tbody><tr><td>Unterhaltungselektronik</td><td>1000 ppm</td></tr></tbody></table><table><tbody><tr><td>Automobilindustrie</td><td>20 ppm<br></td></tr></tbody></table>"
+                    ],
+                    "guid": "HElRNt2rGk",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter einem Qualitätsmanagementsystem?",
+                        "Qualitätsmanagementsystem: \n„Teil eines Managementsystems bezüglich der Qualität“<br><br>Qualitätsmanagement: \n„Management bezüglich Qualität“<br><br>System: \n„ Satz zusammenhängender und sich gegenseitig beeinflussender \nElemente“"
+                    ],
+                    "guid": "gs<~7:&5m!",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das <b>Ziel eines Qualitätsmanagementsystems</b>?",
+                        "<span style=\"color: rgb(32, 33, 34);\">Qualitätsmanagementsysteme stellen sicher, dass die Systemqualität, Prozessqualität und die Produktqualität in einer Organisation geprüft und verbessert werden. Ziel eines Qualitätsmanagementsystems ist eine dauerhafte Verbesserung der Unternehmensleistung.</span>"
+                    ],
+                    "guid": "b&af:!dtAl",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter der Zehnerregel?",
+                        "<span style=\"color: rgb(22, 22, 22); background-color: rgb(234, 239, 242);\">Die&nbsp;</span><strong>Zehnerregel</strong><span style=\"color: rgb(22, 22, 22); background-color: rgb(234, 239, 242);\">&nbsp;besagt, dass sich die Kosten zur Behebung eines&nbsp;</span><a href=\"https://www.projektmagazin.de/glossarterm/fehler\">Fehlers</a><span style=\"color: rgb(22, 22, 22); background-color: rgb(234, 239, 242);\">&nbsp;mit jeder Produktionsstufe verzehnfachen.<br><br></span><img src=\"paste-73555bf5e446d56e7922569aa3be1a5bcca8996c.jpg\"><span style=\"color: rgb(22, 22, 22); background-color: rgb(234, 239, 242);\"><br></span>"
+                    ],
+                    "guid": "P]I/-SpK/)",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wieso geschieht die Fehlerbehebung oft erst zu spät (<b>Zehnerregel</b>)",
+                        "<img src=\"paste-0212cf779193254031278a17531b771879664b4c.jpg\">"
+                    ],
+                    "guid": "$Tu$bnqEH",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was beschreibt der <b>PDCA-Zyklus</b> nach Deming?",
+                        "<span style=\"color: rgb(32, 33, 34);\">Der Demingkreis beschreibt einen&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Iteration#Management\">iterativen</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;vierphasigen&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Prozess\">Prozess</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;für&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Lernen\">Lernen</a><font color=\"#202122\">&nbsp;und Verbesserung (oft im QM zu finden)</font><br><span style=\"color: rgb(32, 33, 34);\">Der Zyklus beschreibt die Phasen im&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Kontinuierlicher_Verbesserungsprozess\">kontinuierlichen Verbesserungsprozess</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;(KVP). KVP ist die Grundlage aller&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Qualit%C3%A4tsmanagement\">Qualitätsmanagement</a><span style=\"color: rgb(32, 33, 34);\">-Systeme. Damit wird im&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Unternehmen\">Unternehmen</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;eine stetige Verbesserung der&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Gesch%C3%A4ftsprozess\">Prozesse</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;und Abläufe verfolgt mit dem Ziel, die&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Wirtschaftlichkeit\">Effizienz</a><span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Kundenzufriedenheit\">Kunden-</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;und&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Arbeitszufriedenheit\">Mitarbeiterzufriedenheit</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;des Unternehmens zu verbessern.</span><br><ul style=\"color: rgb(32, 33, 34);\"><li><span style=\"color: rgb(32, 33, 34);\"><b>Plan:&nbsp;</b></span>&nbsp;<i>Plan</i>&nbsp;umfasst das Erkennen von Verbesserungspotentialen die Analyse des aktuellen Zustands sowie das Entwickeln eines neuen Konzeptes</li></ul><ul style=\"color: rgb(32, 33, 34);\"><li><span style=\"color: rgb(32, 33, 34);\"><b>Do:&nbsp;</b></span>Testen und praktische Optimieren des Konzeptes mit schnell realisierbaren, einfachen Mitteln (provisorisch)</li></ul><ul style=\"color: rgb(32, 33, 34);\"><li><span style=\"color: rgb(32, 33, 34);\"><b>Check:&nbsp;</b></span>der im Kleinen realisierte Prozessablauf und seine Resultate werden sorgfältig überprüft und bei Erfolg für die Umsetzung auf breiter Front&nbsp;<i>allgemein</i>&nbsp;freigegeben</li></ul><ul style=\"color: rgb(32, 33, 34);\"><li><span style=\"color: rgb(32, 33, 34);\"><b>Act:&nbsp;</b></span>in der Phase&nbsp;<i>Act</i>&nbsp;wird die neue&nbsp;<i>allgemeine Vorgabe</i>&nbsp;auf breiter Front eingeführt, festgeschrieben und regelmäßig auf Einhaltung überprüft. (großer Aufwand da Änderung Arbeitspläne, Stammdaten usw.)</li></ul><div><img src=\"330px-PDCA_Cycle.svg.png\"><font color=\"#202122\"><br></font></div>"
+                    ],
+                    "guid": "FpR!p-y>./",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum sind die Folgen einer mangelnden Qualität so groß?",
+                        "<img src=\"paste-536cf3ddbec4f71dfe88ca1f4995d0e4d1346e11.jpg\">"
+                    ],
+                    "guid": "HHuY{r#?o2",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1b7d7f81bc5349fe8ac1e29fe0527294-oa-1",
+                        "Nennen Sie die vier Schritte der Entwicklung des QM",
+                        "<img src=\"paste-acae84e25791d72f423f94d24e01ffe7348cdde1.jpg\" />",
+                        "<img src=\"1b7d7f81bc5349fe8ac1e29fe0527294-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"1b7d7f81bc5349fe8ac1e29fe0527294-oa-1-A.svg\" />",
+                        "<img src=\"1b7d7f81bc5349fe8ac1e29fe0527294-oa-O.svg\" />"
+                    ],
+                    "guid": "qa6(E^I7JB",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1b7d7f81bc5349fe8ac1e29fe0527294-oa-2",
+                        "Nennen Sie die vier Schritte der Entwicklung des QM",
+                        "<img src=\"paste-acae84e25791d72f423f94d24e01ffe7348cdde1.jpg\" />",
+                        "<img src=\"1b7d7f81bc5349fe8ac1e29fe0527294-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"1b7d7f81bc5349fe8ac1e29fe0527294-oa-2-A.svg\" />",
+                        "<img src=\"1b7d7f81bc5349fe8ac1e29fe0527294-oa-O.svg\" />"
+                    ],
+                    "guid": "E-zo{{N+E]",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1b7d7f81bc5349fe8ac1e29fe0527294-oa-3",
+                        "Nennen Sie die vier Schritte der Entwicklung des QM",
+                        "<img src=\"paste-acae84e25791d72f423f94d24e01ffe7348cdde1.jpg\" />",
+                        "<img src=\"1b7d7f81bc5349fe8ac1e29fe0527294-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"1b7d7f81bc5349fe8ac1e29fe0527294-oa-3-A.svg\" />",
+                        "<img src=\"1b7d7f81bc5349fe8ac1e29fe0527294-oa-O.svg\" />"
+                    ],
+                    "guid": "u#X2/mI=.B",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1b7d7f81bc5349fe8ac1e29fe0527294-oa-4",
+                        "Nennen Sie die vier Schritte der Entwicklung des QM",
+                        "<img src=\"paste-acae84e25791d72f423f94d24e01ffe7348cdde1.jpg\" />",
+                        "<img src=\"1b7d7f81bc5349fe8ac1e29fe0527294-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"1b7d7f81bc5349fe8ac1e29fe0527294-oa-4-A.svg\" />",
+                        "<img src=\"1b7d7f81bc5349fe8ac1e29fe0527294-oa-O.svg\" />"
+                    ],
+                    "guid": "LK=`KOVzfW",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind mögliche <b>Folgen nicht beherrschter Prozesse</b>? (Nennen sie 4)",
+                        "<ul><li>viele Fehler</li><li>hohe Produktkosten</li><li>lange Durchlaufzeiten</li><li>unzureichende Liefertrue</li><li>geringe Flexibilität</li><li>viele Änderungen</li></ul>"
+                    ],
+                    "guid": "DrF;b/qFGf",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Unterscheiden Sie die Begriffe Prozess und Geschäftsprozess?",
+                        "<img src=\"paste-bc0a67f2b1dd9be748cd0a8c59f52b272ec85b9a.jpg\">"
+                    ],
+                    "guid": "l}olel=-,",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Geben Sie ein Beispiel für eine allgmemeine Prozessstruktur",
+                        "<img src=\"paste-3e1db9e1bc8a79d1afbb070171d57f8edfa8ccdb.jpg\">"
+                    ],
+                    "guid": "z@,$[{Y+ak",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert die Detaillierung von Prozessen",
+                        "Prozesse werden in Teilprozesse und diese wiederum in Prozessschritte aufgesplittet:<br><img src=\"paste-9663dbbea162c7e48a4b64cb8c11a39fa6150e04.jpg\">"
+                    ],
+                    "guid": "mT};*K^.>6",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche drei Prozessklassen werden unterschieden?",
+                        "Nach EFQM:<br><br><b>Management Prozesse</b> (Führungsprozesse)<br><br><b>Operating Prozesse</b> (Ausführungsprozesse / Kernprozesse / Leistungsprozesse)<br><br><b>Supporting Prozesse</b> (Unterstützungsprozesse)"
+                    ],
+                    "guid": "K@uG`XC(E(",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nennen Sie die <b>5 primären Geschäftsprozesse</b> und erläutern sie diese:",
+                        "<b>Innovationsprozess</b>: \n- Generieren und Überprüfen neuer Produktideen <br><br><b>Produktplanungsprozess</b>: \n- Festlegen der Anforderungen an Produkte <br><br><b>Produktentwicklungsprozess</b>: \n- Entwickeln von Produkten <br><br><b>Vertriebsprozess</b>: \n- Akquirieren neuer Kunden und Kundenaufträge <br><br><b>Auftragsabwicklungsprozess</b>: \n- Fertigen, Liefern und Installieren der bestellten Produkte <br><br><b>Serviceprozess</b>: \n- Klären von Beanstandungen und Lösen von Produktproblemen"
+                    ],
+                    "guid": "qSB5sf1Rm{",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nennen Sie die 5 sekundären Geschäftsprozesse und erläutern sie diese",
+                        "<b>Strategieplanungsprozess</b>: \n- Planung, Anpassung und Kontrolle von Geschäftsfeldern, Kern- \n kompetenzen, Erfolgsfaktoren, Wettbewerbsstrategien und \n Unternehmenszielen <br><br><b>Personalmanagementprozess</b>: \n- Planung, Beschaffung, Qualifizierung, Bereitstellung und Betreuung \n von Personal&nbsp;<br><br><b>Finanzmanagementprozess</b>: \n- Planung, Beschaffung, Bereitstellung und Kontrolle der finanziellen \n Mittel&nbsp;<br><br><b>Ressourcenmanagementprozess</b>: \n- Planung, Beschaffung, Bereitstellung, Instandhaltung und Kontrolle \n technischer <br>Ressourcen <br><br><b>IT-Managementprozess</b>: \n- Planung, Beschaffung, Bereitstellung, Instandhaltung und Kontrolle \n von IT-Ressourcen<br><br><b>Qualitätsmanagementprozess</b>: \n- Planung, Einführung, Anpassung und Auditierung des Qualitäts- \n managementsystems <br><br><b>Controllingprozess</b>: \n- Planung und Kontrolle der operativen Geschäftsziele, Rechnungs- \n wesen"
+                    ],
+                    "guid": "Cf,xIS^/j@",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter einer <b>Prozesslandkarte</b>?",
+                        "<span style=\"color: rgb(32, 33, 34);\">Die&nbsp;</span><b>Prozesslandkarte</b><span style=\"color: rgb(32, 33, 34);\">&nbsp;ist die oberste Ebene der Prozessarchitektur und eine grafische Übersicht die aus modellierten</span><span style=\"color: rgb(32, 33, 34);\">, in&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Kernprozess\">Kern-</a><span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Managementprozess\">Management-</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;und&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Unterst%C3%BCtzungsprozess\">Unterstützungsprozesse</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;gegliederten Prozessen entsteht. Sie ist im&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Prozessmanagement\">Prozessmanagement</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;als Teil des&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Qualit%C3%A4tsmanagement\">Qualitätsmanagements</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;einzuordnen.<br><br><b>Nutzen dieses Vorgehens</b>: <br><ul><li><span style=\"color: rgb(32, 33, 34);\"><b>Informationen und Transparenz</b>: dient als Informationselement und ermöglicht neuen Mitarbeitern transparente Einblicke in die Prozessarchitektur des Unternehemens</span></li><li><span style=\"color: rgb(32, 33, 34);\"><b>Optimierung</b>: Landkarte ermögliche prozessübergreifende Omptimierungspotenziale zu erkennen.</span></li><li><span style=\"color: rgb(32, 33, 34);\"><b>Steuerung</b>: Möglichkeit Verantwortliche für die jeweiligen Prozesse zu bestimmen</span></li></ul>Beispiel:<br></span><img src=\"paste-7b52ed132b978f28152811d8c4f4b618ef5c8662.jpg\"><span style=\"color: rgb(32, 33, 34);\"><br></span><sup></sup>"
+                    ],
+                    "guid": "k56bDQ6N|-",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aus welchen Komponenten setzt sich ein Geschäftsprozess zusammen?&nbsp;",
+                        "&nbsp; Anforderung der Kunden <br>&nbsp; Inputs <br>&nbsp; Leistungserstellung (Wertschöpfung) <br>&nbsp; Ergebnisse <br>&nbsp; Geschäftsprozessverantwortlicher <br>&nbsp; Ziel- und Messgrößen zur Steuerung der Prozessleistung"
+                    ],
+                    "guid": "maRgFJk~Dw",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter dem neuen St. Galler Management-Modell?",
+                        "<img src=\"SGMM2.jpg\">"
+                    ],
+                    "guid": "vE,(ngWK>#",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beschreiben Sie das<b> Aachener QM-Modell</b>",
+                        "<img src=\"563029.jpg\">"
+                    ],
+                    "guid": "p*1sLy;[3/",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche vier Normen bilden die Bestandteile des QM-Systems nach der ISO 9000:2015",
+                        "<ul><li><b>Grundlagen und Begriffe</b> (ISO 9000)</li><li><b>Anforderungen</b> (ISO 9001)</li><li><b>Leitfaden für Audits</b> (<span style=\"color: rgb(130, 130, 139);\">systematische Überprüfung und Bewertung von Prozessen, durch die nachgewiesen wird, ob alle geforderten Standards und Anforderungen erfüllt werden) </span>(ISO 19011) (für QM- und oder Umweltmanagementsysteme)</li><li><b>Leiten und Lenken (ISO 9004)</b></li></ul>"
+                    ],
+                    "guid": "m$M+?;/Edu",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie sieht die Struktur eines PDCA-Zyklusses nach ISO 9001 aus?",
+                        "<img src=\"paste-e27d6d459c61117ff46c3316907f97b389d17f77.jpg\">"
+                    ],
+                    "guid": "q;DSbWx`;?",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nennen Sie die 7 Grundsätze des Qualitätmanagements",
+                        "&nbsp;<b>- Kundenorientierung:</b> (Kern des QM ist Erfüllung der Kundenanforderungen)&nbsp;<br><br><b>&nbsp;- Führung:</b> (nachhaltige Sicherstellung der Wirksamkeit und Aufrechterhaltung des QMS)&nbsp;<br><br><b>&nbsp;- Einbeziehung von Personen:&nbsp;&nbsp;</b>(wirksame Organisationssteuerung nur durch Einsatz engagierter, kompetenter Personen möglich)<br><br><b>&nbsp;- Prozessorientierter Ansatz: </b>(Tätigkeiten sind zusammenhängende Prozesse und damit Teil eines Systems)<br><br><b>&nbsp;- Verbesserung: </b>(ein kontinuierlicher Verbesserungsprozess ist ein dringender Bestandteil der ISO 9001)<b>&nbsp;</b><br><br><b>&nbsp;- faktengestützte Entscheidungsfindung: </b>(verringern Grad der Unsicherheit und somit besseres Ergebnis)<b>&nbsp;</b><br><br><b>&nbsp;- Beziehungsmanagement: </b>(Nutzengewinn sämtlicher Parteien (Kunden, Lieferanten, eigenes Unternehmen als Ziel. Steuerung dieser Beziehungen erhöht Wahrscheinlichkeit langfristig erfolgreich zu sein)"
+                    ],
+                    "guid": "DB4u.saSuj",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4a25300008d947018aa03805266b2854-ao-1",
+                        "Benne den Bestandteil eines jeden Einzelprozesses",
+                        "<img src=\"paste-2c15b32fa0a8d5dd59b54aeec7578443d409ac1f.jpg\" />",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-1-A.svg\" />",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-O.svg\" />"
+                    ],
+                    "guid": "Mw^Mch!C[P",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4a25300008d947018aa03805266b2854-ao-2",
+                        "Benne den Bestandteil eines jeden Einzelprozesses",
+                        "<img src=\"paste-2c15b32fa0a8d5dd59b54aeec7578443d409ac1f.jpg\" />",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-2-A.svg\" />",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-O.svg\" />"
+                    ],
+                    "guid": "Myt:-BVxKV",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4a25300008d947018aa03805266b2854-ao-3",
+                        "Benne den Bestandteil eines jeden Einzelprozesses",
+                        "<img src=\"paste-2c15b32fa0a8d5dd59b54aeec7578443d409ac1f.jpg\" />",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-3-A.svg\" />",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-O.svg\" />"
+                    ],
+                    "guid": "BaY4yBW4y2",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4a25300008d947018aa03805266b2854-ao-4",
+                        "Benne den Bestandteil eines jeden Einzelprozesses",
+                        "<img src=\"paste-2c15b32fa0a8d5dd59b54aeec7578443d409ac1f.jpg\" />",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-4-A.svg\" />",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-O.svg\" />"
+                    ],
+                    "guid": "ls09O_N9&T",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4a25300008d947018aa03805266b2854-ao-5",
+                        "Benne den Bestandteil eines jeden Einzelprozesses",
+                        "<img src=\"paste-2c15b32fa0a8d5dd59b54aeec7578443d409ac1f.jpg\" />",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-5-A.svg\" />",
+                        "<img src=\"4a25300008d947018aa03805266b2854-ao-O.svg\" />"
+                    ],
+                    "guid": "Qu]Ui$PKo8",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b1c7e48f6333493fad500b6b6f0e2dc6-ao-1",
+                        "Wie heißen die Bestandteile der ISO 9001:2015",
+                        "<img src=\"paste-3167a3fad32c21cf601950c18b2a4332d30d6b3a.jpg\" />",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-1-A.svg\" />",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-O.svg\" />"
+                    ],
+                    "guid": "l4t~G~Zd}|",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b1c7e48f6333493fad500b6b6f0e2dc6-ao-2",
+                        "Wie heißen die Bestandteile der ISO 9001:2015",
+                        "<img src=\"paste-3167a3fad32c21cf601950c18b2a4332d30d6b3a.jpg\" />",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-2-A.svg\" />",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-O.svg\" />"
+                    ],
+                    "guid": "I2}TgtDZ*;",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b1c7e48f6333493fad500b6b6f0e2dc6-ao-3",
+                        "Wie heißen die Bestandteile der ISO 9001:2015",
+                        "<img src=\"paste-3167a3fad32c21cf601950c18b2a4332d30d6b3a.jpg\" />",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-3-A.svg\" />",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-O.svg\" />"
+                    ],
+                    "guid": "dmoGJ9jOas",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b1c7e48f6333493fad500b6b6f0e2dc6-ao-4",
+                        "Wie heißen die Bestandteile der ISO 9001:2015",
+                        "<img src=\"paste-3167a3fad32c21cf601950c18b2a4332d30d6b3a.jpg\" />",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-4-A.svg\" />",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-O.svg\" />"
+                    ],
+                    "guid": "ouSvPFKPWu",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "b1c7e48f6333493fad500b6b6f0e2dc6-ao-5",
+                        "Wie heißen die Bestandteile der ISO 9001:2015",
+                        "<img src=\"paste-3167a3fad32c21cf601950c18b2a4332d30d6b3a.jpg\" />",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-5-A.svg\" />",
+                        "<img src=\"b1c7e48f6333493fad500b6b6f0e2dc6-ao-O.svg\" />"
+                    ],
+                    "guid": "L*Wz$XrD8c",
+                    "note_model_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aus welchen vier Abfolgen besteht ein Strategieprozess?",
+                        "<img src=\"paste-c7409253e7c8b680d8daab1518b1a3894e28c53c.jpg\">"
+                    ],
+                    "guid": "N%6fkuNw~I",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die vier <b>Anforderungen </b>an den <b>Kontext der Organisation</b>",
+                        "<b>1. Verstehen der Organisation und ihres Kontextes</b> (welche externen und internen Themen sind für strategische Ausrichtung und Ergebnisse relevant und wie können wir diese überwachen)<br><br><b>2. Erfordernisse und Erwartungen der interessierten Parteien Verstehen</b> (Bestimmung der Parteien die für QMS relevant sowie deren Anforderungen an das QMS)<br><br><b>3. Festlegen des Anwendungsbreichs des QMS </b>(unter Berücksichtigung 1. 2. und Produkte der Organisation)<br><br><b>4. QMS aufbauen, aufrechterhalten und verbessern sowie Prozesse bestimmen die für das QMS benötigt werden </b>(Input, Ergebisse, Abfolge und Wechselwirkung, Kriterien und Verfahren, benötigte Ressourcen, Verantwortliche, Risiken und Chancen, Bewertungen und Verbesserungen) zu diesen Prozessen ermitteln und forcieren <br><b>/ Informationen dokumentieren</b><br><br><img src=\"paste-dd8a247d3370d7484a44e75276d23bac685ca33c.jpg\">"
+                    ],
+                    "guid": "kcNx#HR%V<",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche drei <b>Dokumentationsbenen </b>gibt es, nennen sie jeweils ein Beispiel",
+                        "<img src=\"paste-c263d3bc0d809612725ca2bac8b6e23f0cc3173a.jpg\"><br><b>Dokumente</b>: \nZeichnungen, CAD Datensätze \nStücklisten \nRezepturen \nPrüfanweisungen \nChecklisten \nFormulare \nVerfahrens-, Prozess-, Arbeitsanweisungen \nusw. <br><br><b>Aufzeichnungen</b>: \nPrüfaufzeichnungen, Prüfergebnisse \nAuditbericht \nReviewbericht"
+                    ],
+                    "guid": "D0Rt^8Y#X{",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche <b>Anforderungen </b>bestehen nach ISO 9001:2015 an die <b>Führung</b>",
+                        "Allgmein:<br><ul><li>Oberste Leitung muss <b>Rechenschaftspflicht </b>für QMS übernehmen und sicherstellen dass <b>QPolitik </b>und <b>QZiele </b>für QMS <b>festgelegt </b>und in Einklang mit <b>Unternehmenszielen</b></li><li>Sicherstellen das <b>Ressourcen </b>zur Verfügung stehen</li></ul><br>Kundenorientierung:<br><ul><li><b>Kunden- und gesetzliche Anforderungen</b> bestimmen</li><li><b>Risiken und Chancen</b> welche Kundenzufriedenheit beeinflussen identifizieren</li><li>Fokus <b>Verbesserung</b> der Kundenzufriedenheit aufrecht erhalten</li></ul><br>Politik:<br><ul><li>Festlegung der QPolitik</li><li>Bekanntmachung der QPolitik</li></ul><br>Rollen, Verantwortlichkeiten und Befugnisse zuweisen:<br><br>"
+                    ],
+                    "guid": "p`I~E[u![,",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie werden die Begriffe <b>Aufbauorganisation </b>und <b>Ablauforganisation </b>unterschieden?",
+                        "<b>Aufbauorganisation</b>: \nZerlegung der Gesamtaufgabe einer Organisation und Zuweisung an \nAufgabenträger <font color=\"#aa0000\">(wer ist zuständig) <br></font><br><b>Ablauforganisation</b>: \nRegelt die zur Leistungserstellung notwendigen Arbeitsabläufe durch \nAufteilung in einzelne Tätigkeiten, Festlegung der \nAusführungsreihenfolge und der ausführenden Stellen <font color=\"#aa0000\">(wie wird \nausgeführt)</font>"
+                    ],
+                    "guid": "fjq]8ACG3D",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was vertshet man unter der <b>Qualitätspolitik</b>",
+                        "<span style=\"color: rgb(109, 109, 109);\">Die Qualitätspolitik umfasst im Unternehmen <b>alle qualitätsbezogenen Leit- und Handlungsgrundsätze</b> und bildet somit den Rahmen für alle Qualitätsmanagementaktivitäten.</span>"
+                    ],
+                    "guid": "EuR#kVvFPk",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Verantwortung und Befugnisse bestehen in der <b>Führungsebene </b>ISO 9001:2015",
+                        "&nbsp;<b>Organigramm </b>(Struktur des Unternehmens festlegen)<br>&nbsp;<b>Aufgabenbeschreibung </b><br>&nbsp;<b>Stellenbeschreibung </b><br>&nbsp;<b>Geschäftsverteilungsplan </b>(welche Einheit ist für was Zuständig)"
+                    ],
+                    "guid": "yc3tC&:j#Y",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Unterschied zwischen einer Stellen- und Aufgabenbeschreibung?",
+                        "Die <b>Stellenbeschreibung </b>ist die schriftliche, standardisierte Dokumentation und genaue Beschreibung der Merkmale einer Stelle. Sie definiert Aufgaben und Tätigkeiten, Ziele, Kompetenzen, Verantwortlichkeiten und Pflichten <font color=\"#aa0000\">(geht weit über die eigentlichen Aufgaben hinaus)<br></font><br><span style=\"color: rgb(102, 102, 102);\"><b>Aufgabenbeschreibung </b>ist eine systematische Charakterisierung und Dokumentation von&nbsp;</span><a href=\"https://refa-consulting.de/aufgaben\">Aufgaben</a><span style=\"color: rgb(102, 102, 102);\">&nbsp;bzw. von Teilaufgaben und Ausführungsbedingungen.&nbsp;</span><br>"
+                    ],
+                    "guid": "Om|P4)D3)m",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
             "crowdanki_uuid": "16aaf050-171c-11ec-ab1e-1e2940308285",
             "deck_config_uuid": "be1d1a58-09ba-11ec-aaf2-1e2940308285",
             "desc": "",
@@ -51,19 +862,6 @@
             "extendRev": 0,
             "media_files": [],
             "name": "microcontrollersysteme",
-            "notes": []
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "70ca9b14-171a-11ec-ab1e-1e2940308285",
-            "deck_config_uuid": "be1d1a58-09ba-11ec-aaf2-1e2940308285",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [],
-            "name": "qualitätsmanagement",
             "notes": []
         },
         {
@@ -616,61 +1414,6 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
-            "css": ".card {\n font-familiy: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic-5f68b",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "Arial",
-                    "bqfmt": "",
-                    "bsize": 12,
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "6018ffc8-192b-11ec-9225-1e2940308285",
             "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
             "flds": [
@@ -800,6 +1543,61 @@
                     "name": "IO Card",
                     "ord": 0,
                     "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+            "css": ".card {\n font-familiy: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-824ef",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
                 }
             ],
             "type": 0,
